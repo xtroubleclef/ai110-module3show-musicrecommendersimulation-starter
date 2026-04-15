@@ -80,22 +80,27 @@ I tested the recommender with three different user profiles to see whether the t
 - Chill Lofi
 - Deep Intense Rock
 
-### Screenshot Placeholders
+![CLI verification screenshot](phase3.png)
 
-Run python -m src.main and add screenshots in the two groups below.
+*Loaded songs, Top recommendations, and the recommendation rows with title, score, and reasons*
 
-#### Phase 3 Step 4: CLI Verification Screenshot (Default pop/happy style output)
 
-- CLI verification screenshot: [insert image here]
 
-This screenshot should show Loaded songs, Top recommendations, and the recommendation rows with title, score, and reasons.
+### High-Energy Pop: 
 
-#### Phase 4 Step 1: Stress Test Screenshots (Diverse Profiles)
+![High-Energy Pop](phase4_1.png)
 
-- High-Energy Pop screenshot: [insert image here]
-- Chill Lofi screenshot: [insert image here]
-- Deep Intense Rock screenshot: [insert image here]
-- No-Diversity Baseline screenshot (optional comparison): [insert image here]
+### Chill Lofi:
+
+![Chill Lofi](phase4_2.png)
+
+### Deep Intense Rock:
+
+![Deep Intense Rock](phase4_3.png)
+
+### No-Diversity Baseline:
+
+![No-Diversity Baseline](phase4_4.png)
 
 ### Copilot Prompt for Edge Cases
 
