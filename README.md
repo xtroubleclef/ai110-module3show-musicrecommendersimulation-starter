@@ -82,11 +82,20 @@ I tested the recommender with three different user profiles to see whether the t
 
 ### Screenshot Placeholders
 
-Add one screenshot per profile after running `python -m src.main`.
+Run python -m src.main and add screenshots in the two groups below.
+
+#### Phase 3 Step 4: CLI Verification Screenshot (Default pop/happy style output)
+
+- CLI verification screenshot: [insert image here]
+
+This screenshot should show Loaded songs, Top recommendations, and the recommendation rows with title, score, and reasons.
+
+#### Phase 4 Step 1: Stress Test Screenshots (Diverse Profiles)
 
 - High-Energy Pop screenshot: [insert image here]
 - Chill Lofi screenshot: [insert image here]
 - Deep Intense Rock screenshot: [insert image here]
+- No-Diversity Baseline screenshot (optional comparison): [insert image here]
 
 ### Copilot Prompt for Edge Cases
 
